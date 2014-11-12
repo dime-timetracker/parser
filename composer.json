@@ -1,0 +1,23 @@
+{
+    "name": "dime/parser",
+    "description": "Parse magic input of Dime",
+    "authors": [
+        {
+            "name": "Danilo Kühne",
+            "email": "dk@nogo-software.de"
+        },
+        {
+            "name": "Thomas Birke",
+            "email": "tbirke@netextreme.de"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0",
+    },
+    "autoload": {
+        "psr-0": {
+            "Dime\\Parser\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
