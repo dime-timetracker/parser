@@ -1,5 +1,5 @@
 {
-    "name": "dime/parser",
+    "name": "dime-timetracker/parser",
     "description": "Parse magic input of Dime",
     "authors": [
         {
