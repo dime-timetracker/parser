@@ -1,7 +1,7 @@
 <?php
 use Dime\Parser\TimerangeParser;
 
-class TimeRangeParserTest extends TestCase
+class TimeRangeParserTest extends \PHPUnit_Framework_TestCase
 {
     public function testRun()
     {

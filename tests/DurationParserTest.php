@@ -2,7 +2,7 @@
 
 use Dime\Parser\DurationParser;
 
-class DurationTest extends TestCase
+class DurationTest extends \PHPUnit_Framework_TestCase
 {
     public function testRun()
     {

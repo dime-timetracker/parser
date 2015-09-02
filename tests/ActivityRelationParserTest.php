@@ -1,7 +1,7 @@
 <?php
 use Dime\Parser\ActivityRelationParser;
 
-class ActivityRelationParserTest extends TestCase
+class ActivityRelationParserTest extends \PHPUnit_Framework_TestCase
 {
     public function testRun()
     {

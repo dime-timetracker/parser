@@ -1,7 +1,7 @@
 <?php
 use Dime\Parser\ActivityDescriptionParser;
 
-class ActivityDescriptionParserTest extends TestCase
+class ActivityDescriptionParserTest extends \PHPUnit_Framework_TestCase
 {
     public function testRun()
     {
